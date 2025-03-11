@@ -9,7 +9,7 @@ Summary(pl.UTF-8):	Argh - naturalna linia poleceń
 Name:		python-argh
 # keep 0.27.x here for python2 support
 Version:	0.27.2
-Release:	2
+Release:	3
 License:	LGPL v3
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/argh/
